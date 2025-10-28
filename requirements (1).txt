@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+Pillow
+joblib
+torch
+torchvision
+opencv-python
+kagglehub
+torchvision
+torchaudio
+opencv-python
