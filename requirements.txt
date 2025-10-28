@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+Pillow
+joblib
+torch>=2.9.0
+torchvision>=0.17.1
+torchaudio>=2.9.0
+opencv-python-headless==4.10.0.84
+av
+streamlit-webrtc
+kagglehub
+tqdm
+plotly
